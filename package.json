@@ -1,0 +1,12 @@
+{
+  "name": "nutjs-clicker",
+  "version": "1.0.0",
+  "main": "clicker.js",
+  "type": "module",
+  "scripts": {
+    "start": "node clicker.js"
+  },
+  "dependencies": {
+    "@nut-tree/nut-js": "^3.0.0"
+  }
+}
